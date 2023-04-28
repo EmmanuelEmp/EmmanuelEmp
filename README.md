@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hey everyone, I'm EmmanuelEmp
+
 👋 Hi, I'm EmmanuelEmp@Software Engineer in training
