@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm EmmanuelEmp@Software Engineer in training
 
 <!--
 **EmmanuelEmp/EmmanuelEmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, I'm EmmanuelEmp@Software Engineer in training
+
 ![gif](https://user-images.githubusercontent.com/87908445/235133190-eccc2d65-f3ee-40ff-bc93-c445459a5559.gif)
 
