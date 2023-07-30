@@ -1,4 +1,4 @@
-### Hi there 👋 I'm EmmanuelEmp@Software Engineer in training
+### Hi there 👋 I'm Emmanuel @Currently learning software engineering 
 
 <!--
 **EmmanuelEmp/EmmanuelEmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
