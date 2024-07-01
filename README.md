@@ -25,7 +25,7 @@
 
 - 🔭 I'm a member of **ALX**
 
-<h3 align="left">Languages and Tools:</h3>
+## 🔭 Languages and Tools:
 - Javascript
 - NodeJs
 - ExpressJs
