@@ -17,7 +17,7 @@
 
 - 🌱 I’m also learning **Machines Leaning and AI**
 
-- 💬 You can ask me about **I am particularly enthusiastic about backend development and am eager to discuss any aspect of it and also AI**
+- 💬 I am particularly enthusiastic about **backend development** and am eager to discuss any aspect of it and also AI
 
 - 📫 How to reach me **emmyochogwu@gmail.com**
 
