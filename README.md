@@ -5,7 +5,7 @@
 
 <h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 , I'm Ochogwu Emmanuel</h1>
-<h3 align="center">Analytical and strategic problem-solving abilities. Effective teamwork and collaborative skills. High degree of professionalism and strong work ethic. Excellent oral and written communication skills. Proven leadership capabilities</h3>
+<h3 align="center">Analytical and strategic problem solving abilities. Effective teamwork and collaborative skills. High degree of professionalism and strong work ethic. Excellent oral and written communication skills. Proven leadership capabilities</h3>
 
 <p align="left"> <a href="https://twitter.com/EmmaOchogwu" target="blank"><img src="https://img.shields.io/twitter/follow/EmmaOchogwu?logo=twitter&style=for-the-badge" alt="EmmaOchogwu" /></a> </p>
 
@@ -35,6 +35,7 @@
 - ReactJs
 - Typescript
 - Python
+- Microservices
 - Tools: Git & Github, Docker, Linux, VS Code
 
  <br>
