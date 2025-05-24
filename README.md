@@ -3,7 +3,7 @@
 
 
 
-<h1 style="font-family:script;" align="center"> Hi there 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 , I'm Ochogwu Emmanuel</h1>
 <h5 align="center">
 I'm an enthusiastic Backend Developer with over 3 years of experience, skilled in building scalable, innovative software. I have a solid grasp of frontend technologies, enabling full-stack contributions. Passionate about clean code, great user experiences, and solving complex problems. Strong team player with leadership and analytical skills.</h5>
