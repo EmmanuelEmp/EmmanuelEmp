@@ -11,7 +11,7 @@ I'm an enthusiastic Backend Developer with over 3 years of experience, skilled i
 <p align="left"> <a href="https://twitter.com/EmmaOchogwu" target="blank"><img src="https://img.shields.io/twitter/follow/EmmaOchogwu?logo=twitter&style=for-the-badge" alt="EmmaOchogwu" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanuelEmp&label=Profile%20views&color=0e75b6&style=flat" alt="EmmanuelEmp" />
- <img align= "right" alt="Coding" width="400" height="600" src="https://camo.githubusercontent.com/982841feeca712b61fcbf5b2a8e17fac752206df6b46437262dca4edae4a1afb/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30332f31332f34302f34352f3336305f465f3331333430343534315f6539595a33706874366f45456b4d5875687854626f71584132423253684e6e432e6a7067">
+ <img align= "right" alt="Coding" width="400" height="600" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 
 - 🔭 I’m currently working on **MERN stack projects**
